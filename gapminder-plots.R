@@ -7,8 +7,3 @@ ggplot(gapminder,aes(x=gdpPercap, y=lifeExp))+
 
 #geom_smooth(method="lm")
 
-#some comment
-
-#some more comment
-
-#even more comments
